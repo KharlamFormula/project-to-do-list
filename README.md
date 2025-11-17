@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-# React + Vite
+React Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Сучасний застосунок Todo List, створений за допомогою **React класових компонентів**.  
+Має простий інтерфейс для керування щоденними завданнями.
 
-Currently, two official plugins are available:
+Можливості
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# project-to-do-list
-Сучасний Todo List на React з класовими компонентами
->>>>>>> e45e9f8d243150826567682d75093fc4fde22705
+- Додавання нових завдань
+- Видалення завдань одним кліком
+- Плавні анімації елементів
+- Адаптивний та сучасний інтерфейс
