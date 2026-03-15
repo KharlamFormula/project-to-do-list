@@ -1,4 +1,5 @@
 ## React Todo List
+https://project-to-do-list.harlamformula.workers.dev/
 
 Сучасний застосунок Todo List, створений за допомогою **React класових компонентів**.  
 Має простий інтерфейс для керування щоденними завданнями.
